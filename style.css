@@ -128,7 +128,12 @@ ul.main-menu li a.active {
   color:#FFFFFF;
   border-bottom-color:#EF6D3D;
 }
-
+ul.rocketlist {
+  list-style: "\1F680";
+}
+ul.fingerlist {
+  list-style: "\1F449";
+}
 /* Utility classes */
 .hide {
   display:none;
@@ -136,6 +141,4 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
-
-
 
